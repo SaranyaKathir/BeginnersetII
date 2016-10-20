@@ -11,6 +11,6 @@ temp=temp/10; }
 if(reverse_num==num) {
 printf("%d is a palindrome",num); }
 else {
-printf("%d is not a palindrome",num);
+printf("%d is not a palindrome",num); }
 return 0;
 }
